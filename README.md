@@ -1,5 +1,15 @@
 # Restify App for VUE-SPA course
 
+## Installation
+Para rodar o server: 
+
+``npm i -g nodemon``
+
+Instalar o mysql e criar banco: 
+
+
+
+
 ## Dependencies:
 
 https://nodejs.org/en/
